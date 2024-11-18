@@ -1,0 +1,58 @@
+/* keEp tHe tExT aT #d8e6f2; */
+
+.headline{
+  text-align: center;
+  color: #d8e6f2;
+  font-size: 60px;
+  font-family: impact;
+  border-bottom: solid;
+  border-bottom-color: #343a40; /* a nice grey to use */
+
+}
+
+.byline{
+  text-align: right;
+  color: #d8e6f2;
+  font-size: 15px;
+  border-bottom-right-radius: 20px;
+  border-bottom-color: #343a40;
+}
+
+.important-text{
+  font-family: monospace;
+  font-weight: bolder;
+  color: #d8e6f2;
+  font-style: oblique;
+  font-stretch: semi-expanded;
+  font-size: 15px
+}
+
+.fancy-text{
+  font-family: zapfino;
+  font-weight: 300;
+  font-size: 20px;
+  color: #d8e6f2;
+  text-align: right;
+}
+
+body{
+  background-color: #01162e; /*dark theme*/
+}
+
+p{
+  color: #d8e6f2;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+a:link{
+  color: red;
+}
+
+a:visited{
+  color: green;
+}
+
+a:hover{
+  color: royalblue;
+}
