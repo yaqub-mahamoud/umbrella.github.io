@@ -1,2 +1,2 @@
 # umbrella.github.io
-The uhh the thingy umm where?
+A website... Thats pretty much it.
